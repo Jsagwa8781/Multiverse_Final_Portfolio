@@ -22,8 +22,6 @@ The inspiration for this project came from a personal need for a simple, yet pow
 - **Summary Metrics:** The tool calculates and displays total income, total expenses, and remaining budget, helping users quickly assess their financial status.
 - **User-Friendly Interface:** The interface is designed to be straightforward and user-friendly, ensuring that users can easily navigate and utilize the application.
 
-## STAR Interview Questions
-
 ### Situation
 I created the Personal Budget Tracker application to address the need for a straightforward and effective tool for personal financial management. With an emphasis on simplicity and functionality, this application aims to help users gain control over their finances by providing a clear and concise overview of their budget.
 
