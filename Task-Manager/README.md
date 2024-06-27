@@ -30,8 +30,6 @@ The inspiration for this project came from the need for a reliable and secure ta
   - Informative messages for unauthorized access attempts.
   - Data access limited to authenticated users.
 
-## STAR Interview Questions
-
 ### Situation
 We decided to create the Task Manager App to provide a secure and efficient task management solution. The goal was to implement essential CRUD functionalities for tasks and integrate strong authentication and authorization features to protect user data.
 
@@ -72,9 +70,4 @@ The Task Manager App successfully provides a secure and efficient platform for t
   - Custom API endpoints for task management and user authentication.
 
 ## Competencies
-
-### JF 6.6 - Shows initiative for solving problems within their own remit, being resourceful when faced with a problem to solve
-- **Situation:** As a self-taught programmer, I frequently encounter new coding challenges. I approach these by breaking down the problem into smaller steps and conducting thorough research.
-- **Action:** During this project, I demonstrated problem-solving skills by implementing secure authentication and authorization mechanisms. I researched best practices for password security and chose to integrate OAuth for user authentication.
-- **Result:** This approach ensured the app's security, protecting user data from unauthorized access and enhancing my problem-solving skills by demonstrating the importance of resourcefulness and adaptability in coding.
 
