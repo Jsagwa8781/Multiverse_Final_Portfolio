@@ -44,8 +44,6 @@
 - **JF 6.4:** Worked independently and took responsibility for critical backend features.
 - **JF 6.2:** Followed team approaches to version control and project management using GitHub.
 
-I hope this comprehensive and detailed version meets your expectations. If you need any further adjustments or additions, please let me know!
-
 
 
 
