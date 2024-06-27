@@ -25,8 +25,6 @@ The need for a reliable inventory management system in e-commerce businesses ins
 - **Update Item:** Offer an intuitive form for editing the details of existing items.
 - **Bonus Features:** Additional functionalities like user and order management, search capabilities, mobile responsiveness, and server-side validations to enhance the user experience.
 
-## STAR Interview Questions
-
 ### Situation
 As part of the Engineering team at an e-commerce company, we were tasked with rebuilding the inventory tracking application from the ground up. The goal was to create a full-stack RESTful CRUD application to efficiently track and manage inventory items.
 
