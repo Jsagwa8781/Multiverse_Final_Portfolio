@@ -14,9 +14,6 @@ When designing this application, we looked for a proper API that would provide a
 ### Result
 As a result, users of this application can navigate to our site and view theirs location's weather details and also select a button to view a random location's weather information.
 
-Here is a picture of our deployed project.
-
-![app](../images/Weatherapp.png)
 
 ## Technologies
 - React
@@ -27,8 +24,6 @@ Here is a picture of our deployed project.
 - NodeJS
 
 ## Competencies
-### JF 6.6 - Shows initiative for solving problems within their own remit, being resourceful when faced with a problem to solve
-- I have practiced this competency on the job in my day to day work being a self taught programmer. I sometimes run into code problems I hsave never encountered so in these cases I do one of two things; breakdown the problem or research. When "breaking down the problem" I take the high level issue and break into smaller steps. This allows me to go through each of the smaller steps until I pinpoint the error. For research, I find it most helpful to look for documentation for the particular coding language or technology. Most problems or projects I am trying to create can easily be found in this documentation. I also look into other developers working or having worked on similar tasks.
-- When working on this project I practiced this competency in team building. When creating the application, our team wanting to include a search funtion to look for a particular locaation within the API. We tried many different solutions in trying to get the functionality to work but could ot find a solution within the time constraint. Therefore, I figured out a work around to still fully utilize the APIs info in the form of the Weather App's "random location" functionality.
-- This competency expanded my learning in the importance of good problem solving skills. Knowing when to research, ask for help, or expasnd further upon and error or problem to understand it fully.
+### JF 6.6 -
+
 
