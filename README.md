@@ -1,6 +1,6 @@
 # Final Portfolio
 
-This repository is a collection of some of my key learnings during my May 2023 - August 2024 apprenticeship at HP.
+This repository is a collection of some of my key learnings during my May 2023 - August 2024 apprenticeship.
 
 ## Overview of Apprenticeship
 - Host Company: HP
