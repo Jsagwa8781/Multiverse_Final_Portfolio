@@ -23,7 +23,6 @@ The need for a reliable inventory management system in e-commerce businesses ins
 - **Add Item:** Provide a user-friendly form for adding new items to the inventory.
 - **Delete Item:** Enable users to remove items from the inventory with a simple click.
 - **Update Item:** Offer an intuitive form for editing the details of existing items.
-- **Bonus Features:** Additional functionalities like user and order management, search capabilities, mobile responsiveness, and server-side validations to enhance the user experience.
 
 ### Situation
 As part of the Engineering team at an e-commerce company, we were tasked with rebuilding the inventory tracking application from the ground up. The goal was to create a full-stack RESTful CRUD application to efficiently track and manage inventory items.
