@@ -1,76 +1,48 @@
 
-# Weather Application
+### Weather Application
 
-## High-Level Overview
+#### Situation
+**Rationale:** Our cohort created this app to practice working with third-party APIs and developing dynamic frontend applications.
 
-### Purpose
-The Weather Application provides users with real-time weather information for their current location and various global locations. It offers a comprehensive overview of weather conditions, including temperature (in both Fahrenheit and Celsius), humidity, daily high and low temperatures, and wind speed.
+**Problem:** We aimed to provide users with easy access to current weather information and forecasts for various locations.
 
-### Users
-- **Local Users:** Individuals checking the current weather and forecast for their location.
-- **Travelers:** People needing weather updates for various destinations around the world.
-- **Weather Enthusiasts:** Users exploring weather data for different global locations.
+#### Task
+**Tech Stack:**
+- Frontend: React
+- API Integration: Axios
+- Styling: CSS
+- Version Control: Git
 
-### Function
-The primary function of the Weather Application is to deliver accurate and up-to-date weather information. The app presents essential weather metrics and forecasts in an intuitive user interface, allowing users to plan their activities and travels effectively.
+**Rationale:** We chose React for its component-based architecture and efficient rendering, which is ideal for displaying dynamic weather data.
 
-### Inspiration
-The project was inspired by the need to practice front-end development skills while working with real-time data from an API. A weather app was chosen as it allowed the team to learn how to integrate third-party APIs, handle asynchronous data fetching, and design an interactive user interface.
+**Design and Architecture:** The app follows a single-page application design, with components for current weather, forecasts, and location search.
 
-### Key Features
-- **Local Weather Display:** Shows the current weather, temperature, humidity, daily high and low temperatures, and wind speed for the user's location.
-- **Weather Forecast:** Provides a 2-day weather forecast, including temperature and weather conditions.
-- **Random Location Weather:** Allows users to view weather information for a random location by selecting the "location marker" image.
-- **Temperature Units:** Offers temperature readings in both Fahrenheit and Celsius for user preference.
+**Ways of Working:** We utilized GitHub Projects for planning and task assignments. This tool allowed us to create and manage issues, track progress, and collaborate effectively. We used Git for version control, creating branches for different features and using pull requests for code review before merging. Our workflow involved regular team check-ins to discuss progress and address any blockers.
 
-## STAR Interview Questions
+#### Action
+**Impact:** My contributions included:
+- Researching and integrating a suitable weather API
+- Developing components for displaying weather information
+- Implementing the location search functionality
 
-### Situation
-Our team decided to create a Weather Application to practice developing a front-end application using data from a live API. The goal was to build a weather app that could track and display weather and location data in real-time.
+**Challenges:**
+- We faced difficulties finding free weather APIs with comprehensive data.
+- **Solution:** We compared multiple APIs and chose one that offered the best balance of features and cost-effectiveness, while also implementing error handling for potential API limitations.
 
-### Task
-The task involved creating an application that allows users to view current weather details and forecasts for their location. Additionally, the app needed to provide weather information for random global locations and display temperature in both Fahrenheit and Celsius.
+#### Result
+**Overview:** The completed app allows users to view current weather and forecasts for their location and search for weather information in other areas.
 
-### Action
-1. **API Integration:**
-   - Conducted research to find a suitable API that met our requirements.
-   - Tested various APIs to ensure they provided the necessary weather information without hidden fees.
+**Evaluation:** The application successfully provides users with accurate and up-to-date weather information, meeting its primary objective.
 
-2. **Project Planning and Design:**
-   - Divided tasks among team members to ensure an efficient workflow.
-   - Designed a single-page React application to display dynamic weather information.
+**Lessons Learned:**
+- The importance of thorough API research and evaluation before integration
+- The value of error handling and fallback options when working with external data sources
+- The need for responsive design to ensure usability across different devices
 
-3. **Development:**
-   - Integrated the selected API with the back-end to fetch real-time weather data.
-   - Developed a basic UI to display the weather information.
-   - Enhanced the UI to create a more user-friendly and visually appealing experience.
+#### Competencies
+- **JF 2.3:** Developed an effective user interface for displaying weather information.
+- **JF 2.5:** Implemented a responsive User Interface to ensure compatibility across devices.
+- **JF 6.1:** Demonstrated effective communication skills in coordinating API integration with team members.
+- **JF 6.2:** Followed team approaches to version control and project management using GitHub.
 
-### Result
-The completed Weather Application allows users to view their local weather details and explore weather information for random locations. The app features an intuitive interface that effectively displays current weather conditions and forecasts.
-
-![Weather Application Screenshot](../images/Weatherapp.png)
-
-## Technologies
-
-- **Languages and Frameworks:**
-  - React: Front-end library used for building dynamic user interfaces.
-  - JavaScript: Programming language used for implementing application functionality.
-  - HTML: Markup language used for structuring the application.
-  - CSS: Styling language used for designing the application.
-- **APIs:**
-  - Third-party API used for fetching real-time weather data.
-- **Node.js:**
-  - Server-side JavaScript runtime used for handling API requests.
-
-## Competencies
-
-### JF 6.1 - Demonstrates effective communication skills, sharing information clearly and concisely
-- **Situation:** Effective communication was essential for coordinating the development of the Weather Application.
-- **Action:** I ensured clear and concise communication with team members, discussing progress and addressing challenges promptly.
-- **Result:** This effective communication led to a smooth development process and the successful completion of the project.
-
-### JF 6.3 - Applies analytical thinking to solve problems, making data-driven decisions
-- **Situation:** Selecting the appropriate API and integrating it into the Weather Application required careful analysis.
-- **Action:** I evaluated various APIs, considering their features and potential costs, to make an informed decision.
-- **Result:** The chosen API met our needs perfectly, allowing us to provide accurate and comprehensive weather information in the application.
 
