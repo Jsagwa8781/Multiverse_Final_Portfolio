@@ -23,7 +23,6 @@ Currently, I am working at HP as a Data Engineer on the Data Enablement team. In
 Digital and Data Automation Apprentice
 
 Prior to my current role, I served as a Digital and Data Automation apprentice under the Trading Structures and Intercompany teams. Here, I contributed to automating data workflows and improving data management practices, which significantly enhanced operational efficiency.
-Areas of Interest
 
 My primary areas of interest include:
 
