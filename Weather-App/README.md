@@ -9,7 +9,6 @@
 #### Task
 **Tech Stack:**
 - Frontend: React
-- API Integration: Axios
 - Styling: CSS
 - Version Control: Git
 
