@@ -44,4 +44,8 @@
 - **JF 6.1:** Demonstrated effective communication skills in coordinating API integration with team members.
 - **JF 6.2:** Followed team approaches to version control and project management using GitHub.
 
+#### Visuals
+![Screenshot 2024-06-25 115150](https://github.com/Jsagwa8781/Multiverse_Final_Portfolio/assets/105121061/5d8b56e4-8fff-402e-90ab-ee5695481386)
+
+
 
