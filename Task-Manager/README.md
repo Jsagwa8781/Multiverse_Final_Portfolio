@@ -44,6 +44,8 @@
 - **JF 6.4:** Worked independently and took responsibility for critical backend features.
 - **JF 6.2:** Followed team approaches to version control and project management using GitHub.
 
+#### Visual 
+![Screenshot 2024-06-25 115516](https://github.com/Jsagwa8781/Multiverse_Final_Portfolio/assets/105121061/922249ca-3e11-458e-9ac6-30e2731099a3)
 
 
 
