@@ -65,10 +65,6 @@ The final application successfully meets its goal of providing an efficient inve
   - sequelize==6.x.x: ORM for database operations.
   - react==17.x.x: Library for building the front-end components.
   - npm scripts: For running the server and client development environments.
-- **Deployment Tools:**
-  - Docker: Containerized the application for consistent deployment.
-  - Heroku: Used for deploying the back-end server.
-  - Vercel: Used for deploying the front-end application.
 
 ## Competencies
 
