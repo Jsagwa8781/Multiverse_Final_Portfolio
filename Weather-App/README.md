@@ -9,7 +9,7 @@
 #### Task
 **Tech Stack:**
 - Frontend: React
-- Styling: CSS
+- Styling: CSS, TailWind
 - Version Control: Git
 
 **Rationale:** We chose React for its component-based architecture and efficient rendering, which is ideal for displaying dynamic weather data.
