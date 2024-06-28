@@ -47,3 +47,5 @@
 - **JF 3.4:** Developed a logical and maintainable codebase in Python.
 - **JF 4.6:** Implemented unit testing to ensure the accuracy of financial calculations.
 
+#### Visual
+![Screenshot 2024-06-28 115013](https://github.com/Jsagwa8781/Multiverse_Final_Portfolio/assets/105121061/08f1dee0-1e7a-4204-a9f2-7297d5cc421c)
